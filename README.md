@@ -1,7 +1,9 @@
 # BOT-EXPLORER-V1
 
 Títol i Autor 
+
 /* Project: Programa Final */
+
 /* Author: Estela Salas */
 Llibreries 
 #include <math.h>
